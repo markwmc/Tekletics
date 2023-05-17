@@ -1,4 +1,4 @@
-module cli.go
+module github.com/markwmc/Tekletics.git
 
 go 1.20
 
